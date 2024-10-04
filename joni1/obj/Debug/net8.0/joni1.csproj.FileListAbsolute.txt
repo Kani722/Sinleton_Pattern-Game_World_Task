@@ -1,0 +1,14 @@
+D:\DSA\Pattern\joni1\joni1\bin\Debug\net8.0\joni1.exe
+D:\DSA\Pattern\joni1\joni1\bin\Debug\net8.0\joni1.deps.json
+D:\DSA\Pattern\joni1\joni1\bin\Debug\net8.0\joni1.runtimeconfig.json
+D:\DSA\Pattern\joni1\joni1\bin\Debug\net8.0\joni1.dll
+D:\DSA\Pattern\joni1\joni1\bin\Debug\net8.0\joni1.pdb
+D:\DSA\Pattern\joni1\joni1\obj\Debug\net8.0\joni1.GeneratedMSBuildEditorConfig.editorconfig
+D:\DSA\Pattern\joni1\joni1\obj\Debug\net8.0\joni1.AssemblyInfoInputs.cache
+D:\DSA\Pattern\joni1\joni1\obj\Debug\net8.0\joni1.AssemblyInfo.cs
+D:\DSA\Pattern\joni1\joni1\obj\Debug\net8.0\joni1.csproj.CoreCompileInputs.cache
+D:\DSA\Pattern\joni1\joni1\obj\Debug\net8.0\joni1.dll
+D:\DSA\Pattern\joni1\joni1\obj\Debug\net8.0\refint\joni1.dll
+D:\DSA\Pattern\joni1\joni1\obj\Debug\net8.0\joni1.pdb
+D:\DSA\Pattern\joni1\joni1\obj\Debug\net8.0\joni1.genruntimeconfig.cache
+D:\DSA\Pattern\joni1\joni1\obj\Debug\net8.0\ref\joni1.dll
